@@ -9,10 +9,10 @@ BOLD='\033[1m'
 NC='\033[0m' # No Color
 
 # Get the directory of the current script
-SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+BASE_DIR=$(realpath "$(dirname "${BASH_SOURCE[0]}")/../../")
 
 # Log file
-LOG_FILE="$SCRIPT_DIR/simple_hyprland_install.log"
+LOG_FILE="$BASE_DIR/scripts/installer/simple_hyprland_install.log"
 
 function trap_message {
     print_error "\n\nScript interrupted. Exiting.....\n"
@@ -114,7 +114,7 @@ function run_command {
 
 # Function to run a script with retry and confirmation
 function run_script {
-    local script="$SCRIPT_DIR/$1"
+    local script="$BASE_DIR/scripts/installer/$1"
     local description="$2"
     if ask_confirmation "\nExecute '$description' script"; then
         while ! bash "$script"; do
