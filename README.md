@@ -92,7 +92,6 @@ After installation, you'll want to familiarize yourself with the default key bin
 - `Previous Track`: Go back to the previous track.
 
 #### Miscellaneous
-- `SUPER + L`: Lock screen
 - `Super + V`: Open the clipboard history and paste the selected item.
 - `Super + P`: Open the color picker and copy the selected color to the clipboard.
 - `Super + L`: Lock the screen.
