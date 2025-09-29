@@ -1,0 +1,244 @@
+Fr 26. Sep 12:07:10 CEST 2025: Installation started
+Fr 26. Sep 12:07:10 CEST 2025: Original user is thore
+Fr 26. Sep 12:07:10 CEST 2025: Arch Linux detected. Installation proceeding.
+Fr 26. Sep 12:07:12 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:07:12 CEST 2025: Installation started for prerequisites section
+Fr 26. Sep 12:07:12 CEST 2025: Attempting to run: Update package database and upgrade packages (Recommended)
+Fr 26. Sep 12:07:17 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:07:23 CEST 2025: Update package database and upgrade packages (Recommended) completed successfully.
+Fr 26. Sep 12:07:23 CEST 2025: Attempting to run: Configuring audio and brightness (Recommended)
+Fr 26. Sep 12:07:30 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:07:31 CEST 2025: Configuring audio and brightness (Recommended) completed successfully.
+Fr 26. Sep 12:07:31 CEST 2025: Attempting to run: Installing Nerd Fonts and Symbols (Recommended)
+Fr 26. Sep 12:07:33 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:07:42 CEST 2025: Installing Nerd Fonts and Symbols (Recommended) completed successfully.
+Fr 26. Sep 12:07:42 CEST 2025: Attempting to run: Install and enable SDDM (Recommended)
+Fr 26. Sep 12:07:49 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:07:50 CEST 2025: Install and enable SDDM (Recommended) completed successfully.
+Fr 26. Sep 12:07:50 CEST 2025: Attempting to run: Install Brave Browser
+Fr 26. Sep 12:08:09 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:28 CEST 2025: Install Brave Browser completed successfully.
+Fr 26. Sep 12:08:28 CEST 2025: Attempting to run: Install Kitty (Recommended)
+Fr 26. Sep 12:08:36 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:36 CEST 2025: Install Kitty (Recommended) completed successfully.
+Fr 26. Sep 12:08:36 CEST 2025: Attempting to run: Install nano
+Fr 26. Sep 12:08:43 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:43 CEST 2025: Install nano completed successfully.
+Fr 26. Sep 12:08:43 CEST 2025: Attempting to run: Install tar for extracting files (Must)/needed for copying themes
+Fr 26. Sep 12:08:43 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:44 CEST 2025: Install tar for extracting files (Must)/needed for copying themes completed successfully.
+Fr 26. Sep 12:08:44 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:44 CEST 2025: Installation started for hypr section
+Fr 26. Sep 12:08:44 CEST 2025: Attempting to run: Install Hyprland (Must)
+Fr 26. Sep 12:08:45 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:46 CEST 2025: Install Hyprland (Must) completed successfully.
+Fr 26. Sep 12:08:46 CEST 2025: Attempting to run: Copy hyprland config (Must)
+Fr 26. Sep 12:08:49 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:49 CEST 2025: Copy hyprland config (Must) completed successfully.
+Fr 26. Sep 12:08:49 CEST 2025: Attempting to run: Install XDG desktop portal for Hyprland
+Fr 26. Sep 12:08:54 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:54 CEST 2025: Install XDG desktop portal for Hyprland completed successfully.
+Fr 26. Sep 12:08:54 CEST 2025: Attempting to run: Install KDE Polkit agent for authentication dialogs
+Fr 26. Sep 12:08:55 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:56 CEST 2025: Install KDE Polkit agent for authentication dialogs completed successfully.
+Fr 26. Sep 12:08:56 CEST 2025: Attempting to run: Install Dunst notification daemon
+Fr 26. Sep 12:08:56 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:57 CEST 2025: Install Dunst notification daemon completed successfully.
+Fr 26. Sep 12:08:57 CEST 2025: Attempting to run: Copy dunst config
+Fr 26. Sep 12:08:58 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:08:58 CEST 2025: Copy dunst config completed successfully.
+Fr 26. Sep 12:08:58 CEST 2025: Attempting to run: Install QT support on wayland
+Fr 26. Sep 12:09:00 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:01 CEST 2025: Install QT support on wayland completed successfully.
+Fr 26. Sep 12:09:02 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:02 CEST 2025: Installation started for utilities section
+Fr 26. Sep 12:09:02 CEST 2025: Attempting to run: Install Waybar - Status Bar
+Fr 26. Sep 12:09:03 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:05 CEST 2025: Install Waybar - Status Bar completed successfully.
+Fr 26. Sep 12:09:05 CEST 2025: Attempting to run: Copy Waybar config
+Fr 26. Sep 12:09:07 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:07 CEST 2025: Copy Waybar config completed successfully.
+Fr 26. Sep 12:09:07 CEST 2025: Attempting to run: Install Tofi - Application Launcher
+Fr 26. Sep 12:09:09 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:23 CEST 2025: Install Tofi - Application Launcher completed successfully.
+Fr 26. Sep 12:09:23 CEST 2025: Attempting to run: Copy Tofi config(s)
+Fr 26. Sep 12:09:27 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:27 CEST 2025: Copy Tofi config(s) completed successfully.
+Fr 26. Sep 12:09:27 CEST 2025: Attempting to run: Install Cliphist - Clipboard Manager
+Fr 26. Sep 12:09:28 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:29 CEST 2025: Install Cliphist - Clipboard Manager completed successfully.
+Fr 26. Sep 12:09:29 CEST 2025: Attempting to run: Install SWWW for wallpaper management
+Fr 26. Sep 12:09:29 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:32 CEST 2025: Install SWWW for wallpaper management completed successfully.
+Fr 26. Sep 12:09:32 CEST 2025: Attempting to run: Copy sample wallpapers to assets directory (Recommended)
+Fr 26. Sep 12:09:33 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:33 CEST 2025: Copy sample wallpapers to assets directory (Recommended) completed successfully.
+Fr 26. Sep 12:09:33 CEST 2025: Attempting to run: Install Hyprpicker - Color Picker
+Fr 26. Sep 12:09:35 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:38 CEST 2025: Install Hyprpicker - Color Picker completed successfully.
+Fr 26. Sep 12:09:38 CEST 2025: Attempting to run: Install Hyprlock - Screen Locker (Must)
+Fr 26. Sep 12:09:39 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:42 CEST 2025: Install Hyprlock - Screen Locker (Must) completed successfully.
+Fr 26. Sep 12:09:42 CEST 2025: Attempting to run: Copy Hyprlock config
+Fr 26. Sep 12:09:43 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:43 CEST 2025: Copy Hyprlock config completed successfully.
+Fr 26. Sep 12:09:43 CEST 2025: Attempting to run: Install Wlogout - Session Manager
+Fr 26. Sep 12:09:44 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:56 CEST 2025: Install Wlogout - Session Manager completed successfully.
+Fr 26. Sep 12:09:56 CEST 2025: Attempting to run: Copy Wlogout config and assets
+Fr 26. Sep 12:09:58 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:09:58 CEST 2025: Copy Wlogout config and assets completed successfully.
+Fr 26. Sep 12:09:58 CEST 2025: Attempting to run: Install Grimblast - Screenshot tool
+Fr 26. Sep 12:10:00 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:10 CEST 2025: Install Grimblast - Screenshot tool completed successfully.
+Fr 26. Sep 12:10:10 CEST 2025: Attempting to run: Install Hypridle for idle management (Must)
+Fr 26. Sep 12:10:11 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:14 CEST 2025: Install Hypridle for idle management (Must) completed successfully.
+Fr 26. Sep 12:10:14 CEST 2025: Attempting to run: Copy Hypridle config
+Fr 26. Sep 12:10:16 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:16 CEST 2025: Copy Hypridle config completed successfully.
+Fr 26. Sep 12:10:17 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:17 CEST 2025: Installation started for theming section
+Fr 26. Sep 12:10:17 CEST 2025: Attempting to run: Install nwg-look for GTK theme management
+Fr 26. Sep 12:10:18 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:18 CEST 2025: Install nwg-look for GTK theme management completed successfully.
+Fr 26. Sep 12:10:18 CEST 2025: Attempting to run: Install Qt5, Qt6 Settings, and Kvantum theme engines
+Fr 26. Sep 12:10:19 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:20 CEST 2025: Install Qt5, Qt6 Settings, and Kvantum theme engines completed successfully.
+Fr 26. Sep 12:10:20 CEST 2025: Attempting to run: Install Catppuccin Mocha GTK theme
+Fr 26. Sep 12:10:20 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:20 CEST 2025: Install Catppuccin Mocha GTK theme completed successfully.
+Fr 26. Sep 12:10:20 CEST 2025: Attempting to run: Install Tela Circle Dracula icon theme
+Fr 26. Sep 12:10:22 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:22 CEST 2025: Install Tela Circle Dracula icon theme completed successfully.
+Fr 26. Sep 12:10:22 CEST 2025: Attempting to run: Install Catppuccin theme for Kvantum
+Fr 26. Sep 12:10:23 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:33 CEST 2025: Install Catppuccin theme for Kvantum completed successfully.
+Fr 26. Sep 12:10:33 CEST 2025: Attempting to run: Copy Catppuccin theme configuration for Kitty terminal
+Fr 26. Sep 12:10:38 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:38 CEST 2025: Copy Catppuccin theme configuration for Kitty terminal completed successfully.
+Fr 26. Sep 12:10:41 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:10:41 CEST 2025: Final setup script started
+Fr 26. Sep 12:10:41 CEST 2025: Installation completed successfully
+Fr 26. Sep 12:44:34 CEST 2025: Installation started
+Fr 26. Sep 12:44:34 CEST 2025: Original user is thore
+Fr 26. Sep 12:44:34 CEST 2025: Arch Linux detected. Installation proceeding.
+Fr 26. Sep 12:44:39 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:44:39 CEST 2025: Installation started for prerequisites section
+Fr 26. Sep 12:44:39 CEST 2025: Attempting to run: Update package database and upgrade packages (Recommended)
+Fr 26. Sep 12:44:41 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:44:46 CEST 2025: Update package database and upgrade packages (Recommended) completed successfully.
+Fr 26. Sep 12:44:46 CEST 2025: Attempting to run: Configuring audio and brightness (Recommended)
+Fr 26. Sep 12:44:47 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:44:48 CEST 2025: Configuring audio and brightness (Recommended) completed successfully.
+Fr 26. Sep 12:44:48 CEST 2025: Attempting to run: Installing Nerd Fonts and Symbols (Recommended)
+Fr 26. Sep 12:44:50 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:44:53 CEST 2025: Installing Nerd Fonts and Symbols (Recommended) completed successfully.
+Fr 26. Sep 12:44:53 CEST 2025: Attempting to run: Install and enable SDDM (Recommended)
+Fr 26. Sep 12:44:54 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:44:55 CEST 2025: Install and enable SDDM (Recommended) completed successfully.
+Fr 26. Sep 12:44:55 CEST 2025: Attempting to run: Install Brave Browser
+Fr 26. Sep 12:44:55 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:45:21 CEST 2025: Install Brave Browser completed successfully.
+Fr 26. Sep 12:45:21 CEST 2025: Attempting to run: Install Kitty (Recommended)
+Fr 26. Sep 12:45:25 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:45:25 CEST 2025: Install Kitty (Recommended) completed successfully.
+Fr 26. Sep 12:45:25 CEST 2025: Attempting to run: Install nano
+Fr 26. Sep 12:45:30 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:45:30 CEST 2025: Install nano completed successfully.
+Fr 26. Sep 12:45:30 CEST 2025: Attempting to run: Install tar for extracting files (Must)/needed for copying themes
+Fr 26. Sep 12:45:33 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:45:33 CEST 2025: Install tar for extracting files (Must)/needed for copying themes completed successfully.
+Fr 26. Sep 12:45:37 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:45:37 CEST 2025: Installation started for hypr section
+Fr 26. Sep 12:45:37 CEST 2025: Attempting to run: Install Hyprland (Must)
+Fr 26. Sep 12:46:05 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:06 CEST 2025: Install Hyprland (Must) completed successfully.
+Fr 26. Sep 12:46:06 CEST 2025: Attempting to run: Copy hyprland config (Must)
+Fr 26. Sep 12:46:08 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:09 CEST 2025: Copy hyprland config (Must) completed successfully.
+Fr 26. Sep 12:46:09 CEST 2025: Attempting to run: Install XDG desktop portal for Hyprland
+Fr 26. Sep 12:46:13 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:14 CEST 2025: Install XDG desktop portal for Hyprland completed successfully.
+Fr 26. Sep 12:46:14 CEST 2025: Attempting to run: Install KDE Polkit agent for authentication dialogs
+Fr 26. Sep 12:46:20 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:20 CEST 2025: Install KDE Polkit agent for authentication dialogs completed successfully.
+Fr 26. Sep 12:46:20 CEST 2025: Attempting to run: Install Dunst notification daemon
+Fr 26. Sep 12:46:22 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:22 CEST 2025: Install Dunst notification daemon completed successfully.
+Fr 26. Sep 12:46:22 CEST 2025: Attempting to run: Copy dunst config
+Fr 26. Sep 12:46:25 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:25 CEST 2025: Copy dunst config completed successfully.
+Fr 26. Sep 12:46:25 CEST 2025: Attempting to run: Install QT support on wayland
+Fr 26. Sep 12:46:26 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:27 CEST 2025: Install QT support on wayland completed successfully.
+Fr 26. Sep 12:46:30 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:30 CEST 2025: Installation started for utilities section
+Fr 26. Sep 12:46:30 CEST 2025: Attempting to run: Install Waybar - Status Bar
+Fr 26. Sep 12:46:31 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:32 CEST 2025: Install Waybar - Status Bar completed successfully.
+Fr 26. Sep 12:46:32 CEST 2025: Attempting to run: Copy Waybar config
+Fr 26. Sep 12:46:32 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:32 CEST 2025: Copy Waybar config completed successfully.
+Fr 26. Sep 12:46:32 CEST 2025: Attempting to run: Install Tofi - Application Launcher
+Fr 26. Sep 12:46:33 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:41 CEST 2025: Install Tofi - Application Launcher completed successfully.
+Fr 26. Sep 12:46:41 CEST 2025: Attempting to run: Copy Tofi config(s)
+Fr 26. Sep 12:46:44 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:44 CEST 2025: Copy Tofi config(s) completed successfully.
+Fr 26. Sep 12:46:44 CEST 2025: Attempting to run: Install Cliphist - Clipboard Manager
+Fr 26. Sep 12:46:47 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:47 CEST 2025: Install Cliphist - Clipboard Manager completed successfully.
+Fr 26. Sep 12:46:47 CEST 2025: Attempting to run: Install SWWW for wallpaper management
+Fr 26. Sep 12:46:50 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:56 CEST 2025: Install SWWW for wallpaper management completed successfully.
+Fr 26. Sep 12:46:56 CEST 2025: Attempting to run: Copy sample wallpapers to assets directory (Recommended)
+Fr 26. Sep 12:46:58 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:46:58 CEST 2025: Copy sample wallpapers to assets directory (Recommended) completed successfully.
+Fr 26. Sep 12:46:58 CEST 2025: Attempting to run: Install Hyprpicker - Color Picker
+Fr 26. Sep 12:46:59 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:02 CEST 2025: Install Hyprpicker - Color Picker completed successfully.
+Fr 26. Sep 12:47:02 CEST 2025: Attempting to run: Install Hyprlock - Screen Locker (Must)
+Fr 26. Sep 12:47:03 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:06 CEST 2025: Install Hyprlock - Screen Locker (Must) completed successfully.
+Fr 26. Sep 12:47:06 CEST 2025: Attempting to run: Copy Hyprlock config
+Fr 26. Sep 12:47:07 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:07 CEST 2025: Copy Hyprlock config completed successfully.
+Fr 26. Sep 12:47:07 CEST 2025: Attempting to run: Install Wlogout - Session Manager
+Fr 26. Sep 12:47:09 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:16 CEST 2025: Install Wlogout - Session Manager completed successfully.
+Fr 26. Sep 12:47:16 CEST 2025: Attempting to run: Copy Wlogout config and assets
+Fr 26. Sep 12:47:17 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:17 CEST 2025: Copy Wlogout config and assets completed successfully.
+Fr 26. Sep 12:47:17 CEST 2025: Attempting to run: Install Grimblast - Screenshot tool
+Fr 26. Sep 12:47:18 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:26 CEST 2025: Install Grimblast - Screenshot tool completed successfully.
+Fr 26. Sep 12:47:26 CEST 2025: Attempting to run: Install Hypridle for idle management (Must)
+Fr 26. Sep 12:47:27 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:33 CEST 2025: Install Hypridle for idle management (Must) completed successfully.
+Fr 26. Sep 12:47:33 CEST 2025: Attempting to run: Copy Hypridle config
+Fr 26. Sep 12:47:35 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:35 CEST 2025: Copy Hypridle config completed successfully.
+Fr 26. Sep 12:47:35 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:35 CEST 2025: Installation started for theming section
+Fr 26. Sep 12:47:35 CEST 2025: Attempting to run: Install nwg-look for GTK theme management
+Fr 26. Sep 12:47:37 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:37 CEST 2025: Install nwg-look for GTK theme management completed successfully.
+Fr 26. Sep 12:47:37 CEST 2025: Attempting to run: Install Qt5, Qt6 Settings, and Kvantum theme engines
+Fr 26. Sep 12:47:38 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:39 CEST 2025: Install Qt5, Qt6 Settings, and Kvantum theme engines completed successfully.
+Fr 26. Sep 12:47:39 CEST 2025: Attempting to run: Install Catppuccin Mocha GTK theme
+Fr 26. Sep 12:47:40 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:40 CEST 2025: Install Catppuccin Mocha GTK theme completed successfully.
+Fr 26. Sep 12:47:40 CEST 2025: Attempting to run: Install Tela Circle Dracula icon theme
+Fr 26. Sep 12:47:41 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:42 CEST 2025: Install Tela Circle Dracula icon theme completed successfully.
+Fr 26. Sep 12:47:42 CEST 2025: Attempting to run: Install Catppuccin theme for Kvantum
+Fr 26. Sep 12:47:42 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:52 CEST 2025: Install Catppuccin theme for Kvantum completed successfully.
+Fr 26. Sep 12:47:52 CEST 2025: Attempting to run: Copy Catppuccin theme configuration for Kitty terminal
+Fr 26. Sep 12:47:53 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:53 CEST 2025: Copy Catppuccin theme configuration for Kitty terminal completed successfully.
+Fr 26. Sep 12:47:54 CEST 2025: Operation accepted by user.
+Fr 26. Sep 12:47:54 CEST 2025: Final setup script started
+Fr 26. Sep 12:47:54 CEST 2025: Installation completed successfully
